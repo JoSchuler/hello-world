@@ -6,3 +6,14 @@ Instead of the master README, let's try to create someting nice here:
 |  _ <| |___ / ___ \| |_| | |  | | |___  
 |_| \_\_____/_/   \_\____/|_|  |_|_____|  
   
+# Make a modification
+This is a first addition made in eclipse
+
+ #     #  ######  #       #        ####
+ #     #  #       #       #       #    #
+ #######  #####   #       #       #    #
+ #     #  #       #       #       #    #
+ #     #  #       #       #       #    #
+ #     #  ######  ######  ######   ####
+ 
+ 
